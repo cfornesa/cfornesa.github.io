@@ -10,5 +10,24 @@ Here are a list of projects that I am actively working on or have worked on in t
 - <a href="https://github.com/cfornesa/communicate-using-markdown">"Communicate using markdown"</a> project.  A GitHub Skills project where I practice communicating with markdown.
 - Legacy <a href="https://github.com/cfornesa/pages">"Projects"</a> project.  My first attempt at creating a GitHub page, it is also where this page was originally hosted prior to creating the "cfornesa.github.io" repository.
 
+
+# Jupyter Notebooks
+
+## Fornesus Blog Web Scraping Project
+
+April 13, 2024
+
+This Jupyter notebook reviews the steps that I took in creating my first web scraping project, using BeautifulSoup4 and Requests Python libraries to scrape data from three of my websites.  I also went through the ways in which I integrated GitHub Copilot in this workflow, though I will state that a solid foundation in Python was still necessary for me to refactor this code as efficiently as possible.  You can find the associated Colab Notebook <a href="https://drive.google.com/file/d/1r9pCP9e4drE2O-uGgtzTsUPFDpK4XFpn/view?usp=drive_link">at this link</a>.
+
+Links to a live web output of each of the three tests can be found at the following links:
+
+- <a href="https://fornesus.replit.app/fornesus-blog">Fornesus Blog</a> - fornesus.blog
+- <a href="https://fornesus.replit.app/fornesus-portfolio">Fornesus Portfolio</a> - chris.com.ph
+- <a href="https://fornesus.replit.app/fornesus-art-portfolio">Fornesus Art Portfolio</a> - fornesusart.com
+
+The associated website was created using the Flask template at Replit and Replit's native AI feature.  Additionally, you can find the codebase for this program and tests <a href="https://replit.com/@fornesus/Fornesus-Web-Scraper">at this link</a>.
+
+<iframe src="https://nbviewer.org/urls/assets.zyrosite.com/d95rrNbqkpIXbpoo/python-syntax-medical-insurance-project-A3QpNNNPO2C5NJqq.ipynb" width="100%" min-height="100vh" height="480" allow="autoplay"></iframe>
+
 View <a href="https://github.com/cfornesa/cfornesa.github.io">the codebase</a> for this site and see <a href="https://cfornesa.github.io/cfornesa">my profile</a>.
 
