@@ -8,7 +8,7 @@ Here are a list of projects that I am actively working on or have worked on in t
 - <a href="https://github.com/cfornesa/hello-world">"Hello World"</a> project.  My first assignment for MOD A of Buston University's Online MSDS program.
 - <a href="https://github.com/cfornesa/introduction-to-github">"Introduction to GitHub"</a> project.  A GitHub Skills project where I practice creating a repo, then branching and merging changes.
 - <a href="https://github.com/cfornesa/communicate-using-markdown">"Communicate using markdown"</a> project.  A GitHub Skills project where I practice communicating with markdown.
-- <a href="https://github.com/cfornesa/pages">"Pages"</a> project.  My first attempt at creating a GitHub page, it is also where this page lives.
+- Legacy <a href="https://github.com/cfornesa/pages">"Projects"</a> project.  My first attempt at creating a GitHub page, it is also where this page was originally hosted prior to creating the "cfornesa.github.io" repository.
 
-View the codebase for this site <a href="https://github.com/cfornesa/pages">here</a> and see my profile <a href="https://cfornesa.github.io/cfornesa">here</a>.
+View the codebase for this site <a href="https://github.com/cfornesa/cfornesa.github.io">here</a> and see my profile <a href="https://cfornesa.github.io/cfornesa">here</a>.
 
