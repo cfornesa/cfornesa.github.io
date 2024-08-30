@@ -1,6 +1,6 @@
 baseurl: ""
 
-theme: jekyll-theme-architect
+theme: jekyll-theme-minimal
 title: CFornesa
 author: Chris Fornesa
 description: A portfolio of data work by Chris Fornesa.
