@@ -1,3 +1,5 @@
+baseurl: ""
+
 theme: minima
 title: CFornesa
 author: Chris Fornesa
