@@ -6,5 +6,6 @@ author: Chris Fornesa
 description: A portfolio of data work by Chris Fornesa.
 
 header_pages:
+  - index.md
   - about.md
   - portfolio.md
