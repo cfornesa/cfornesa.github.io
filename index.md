@@ -2,7 +2,10 @@
 title: Home
 ---
 
-## What I Do
+## Hi, I'm Chris.
+
+And I believe that the human factor of data must be prioritized and that data can be used to change everything, for better or worse.  
+
 I perpetually seek out new things to learn and new ways to grow as a person. Being autistic and having ADHD are two parts of my recipe that contribute to my tendency to obsess over the little things, ultimately see the bigger picture, and fuel my curiosity as I hyperfocus on a regular basis.
 
 ## Recent Projects and Repositories
