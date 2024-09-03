@@ -9,3 +9,5 @@ header_pages:
   - index.md
   - about.md
   - portfolio.md
+  - title: "Coded Art"
+    url: "https://art.cfornesa.com"
