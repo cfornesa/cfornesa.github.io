@@ -8,5 +8,7 @@ description: A portfolio of data work by Chris Fornesa.
 header_pages:
   - about.md
   - portfolio.md
+
+links:
   - title: "Coded Art"
     url: "https://art.cfornesa.com"
