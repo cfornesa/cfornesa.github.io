@@ -10,6 +10,8 @@ header_pages:
   - about.md
   - portfolio.md
 
-links:
-  - title: "Coded Art"
-    url: "https://art.cfornesa.com"
+minima:
+  social_links:
+    - platform: github  # same as SVG filename.
+      user_url: "https://github.com/cfornesa"  # URL of profile page.
+      title:  My GitHub Profile  # Optional. Text displayed on hovering over link.
