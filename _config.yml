@@ -14,3 +14,4 @@ minima:
   social_links:
     - { platform: github,  user_url: "https://github.com/cfornesa" }
     - { platform: twitter, user_url: "https://twitter.com/jekyllrb" }
+  skin: dark
