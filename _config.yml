@@ -1,6 +1,5 @@
 baseurl: ""
 
-theme: minima
 title: CFornesa
 author: Chris Fornesa
 description: A portfolio of data work by Chris Fornesa.
@@ -10,6 +9,7 @@ header_pages:
   - about.md
   - portfolio.md
 
+theme: minima
 minima:
   skin: auto
   social_links:
