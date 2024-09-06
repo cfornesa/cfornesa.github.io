@@ -2,6 +2,7 @@ baseurl: ""
 
 title: CFornesa
 author: Chris Fornesa
+email: cfornesa@bu.edu
 description: A portfolio of data work by Chris Fornesa.
 
 header_pages:
@@ -9,9 +10,12 @@ header_pages:
   - about.md
   - portfolio.md
 
+twitter_username: cfornesa
+github_username:  cfornesa
+
 theme: minima
 minima:
-  skin: auto
+  date_format: "%b %-d, %Y"
   social_links:
     - { platform: github,  user_url: "https://github.com/cfornesa" }
     - { platform: devto,          user_url: "https://dev.to/jekyll" }
