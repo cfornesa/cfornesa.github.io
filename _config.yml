@@ -8,11 +8,9 @@ email: cfornesa@bu.edu
 description: A portfolio of data work by Chris Fornesa.
 
 minima:
-  date_format: "%b %-d, %Y"
   social_links:
     - { platform: github,  user_url: "https://github.com/cfornesa" }
-    - { platform: devto,          user_url: "https://dev.to/cfornesa" }
-    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/cfornesa" }
+    - { platform: twitter, user_url: "https://twitter.com/cfornesa" }
 
 # Header Pages
 header_pages:
