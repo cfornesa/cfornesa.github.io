@@ -1,9 +1,10 @@
 ---
-title: Portfolio
+title: Chris Fornesa's Portfolio
 permalink: /portfolio/
 ---
 
-<h2>Portfolio</h2>
+<hr>
+<br>
 
 I perpetually seek out new things to learn and new ways to grow as a person.  Being autistic and having ADHD are two parts of my recipe that contribute to my tendency to obsess over the little things, ultimately see the bigger picture, and fuel my curiosity as I hyperfocus on a regular basis.  
 
