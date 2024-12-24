@@ -3,16 +3,15 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-<h1>Portfolio</h1>
+<h2>Portfolio</h2>
+
+I perpetually seek out new things to learn and new ways to grow as a person.  Being autistic and having ADHD are two parts of my recipe that contribute to my tendency to obsess over the little things, ultimately see the bigger picture, and fuel my curiosity as I hyperfocus on a regular basis.  
 
 <br>
 <hr>
 <br>
 
-I perpetually seek out new things to learn and new ways to grow as a person.  Being autistic and having ADHD are two parts of my recipe that contribute to my tendency to obsess over the little things, ultimately see the bigger picture, and fuel my curiosity as I hyperfocus on a regular basis.  
-
-
-<h2>Recent Projects and Repositories</h2>
+<h1>Recent Projects and Repositories</h1>
 
 Here are a list of projects that I am actively working on or have worked on in the past.
 
@@ -25,13 +24,13 @@ Here are a list of projects that I am actively working on or have worked on in t
 <hr>
 <br>
 
-<h1>Jupyter Notebooks</h1>
+<h2>Jupyter Notebooks</h2>
 
 <br>
 <hr>
 <br>
 
-<h2>DX 602 Final Project</h2>
+<h1>DX 602 Final Project</h1>
 
 December 15, 2024
 
@@ -43,7 +42,7 @@ This Jupyter notebook reviews the steps that I took in creating my first web scr
 <hr>
 <br>
 
-<h2>DX 601 Final Project</h2>
+<h1>DX 601 Final Project</h1>
 
 December 8, 2024
 
