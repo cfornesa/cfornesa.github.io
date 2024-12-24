@@ -20,6 +20,22 @@ Here are a list of projects that I am actively working on or have worked on in t
 
 # Jupyter Notebooks
 
+## DX 602 Final Project
+
+December 15, 2024
+
+This Jupyter notebook reviews the steps that I took in creating my first web scraping project, using BeautifulSoup4 and Requests Python libraries to scrape data from three of my websites.  I also went through the ways in which I integrated GitHub Copilot in this workflow, though I will state that a solid foundation in Python was still necessary for me to refactor this code as efficiently as possible.  You can find the associated Colab Notebook <a href="https://drive.google.com/file/d/1eN4B4I5J6PJYnN-1MG6ma7JtPyEVKgtK/view?usp=sharing">at this link</a>.
+
+<iframe src="https://nbviewer.org/github/cfornesa/OMDS/blob/main/CFornesa_CDS602_Final_Public.ipynb" width="100%" min-height="100vh" height="480" allow="autoplay"></iframe>
+
+## DX 601 Final Project
+
+December 8, 2024
+
+This Jupyter notebook reviews the steps that I took in creating my first web scraping project, using BeautifulSoup4 and Requests Python libraries to scrape data from three of my websites.  I also went through the ways in which I integrated GitHub Copilot in this workflow, though I will state that a solid foundation in Python was still necessary for me to refactor this code as efficiently as possible.  You can find the associated Colab Notebook <a href="https://drive.google.com/file/d/1eN4B4I5J6PJYnN-1MG6ma7JtPyEVKgtK/view?usp=sharing">at this link</a>.
+
+<iframe src="https://nbviewer.org/github/cfornesa/OMDS/blob/main/CFornesa_CDS601_Final_Public.ipynb" width="100%" min-height="100vh" height="480" allow="autoplay"></iframe>
+
 ## Fornesus Blog Web Scraping Project
 
 April 13, 2024
