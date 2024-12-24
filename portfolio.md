@@ -3,12 +3,16 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-# Portfolio
+<h1>Portfolio</h1>
+
+<br>
+<hr>
+<br>
 
 I perpetually seek out new things to learn and new ways to grow as a person.  Being autistic and having ADHD are two parts of my recipe that contribute to my tendency to obsess over the little things, ultimately see the bigger picture, and fuel my curiosity as I hyperfocus on a regular basis.  
 
 
-# Recent Projects and Repositories
+<h2>Recent Projects and Repositories</h2>
 
 Here are a list of projects that I am actively working on or have worked on in the past.
 
@@ -21,13 +25,13 @@ Here are a list of projects that I am actively working on or have worked on in t
 <hr>
 <br>
 
-# Jupyter Notebooks
+<h1>Jupyter Notebooks</h1>
 
 <br>
 <hr>
 <br>
 
-# DX 602 Final Project
+<h2>DX 602 Final Project</h2>
 
 December 15, 2024
 
@@ -39,7 +43,7 @@ This Jupyter notebook reviews the steps that I took in creating my first web scr
 <hr>
 <br>
 
-# DX 601 Final Project
+<h2>DX 601 Final Project</h2>
 
 December 8, 2024
 
@@ -47,9 +51,11 @@ This Jupyter notebook reviews the steps that I took in creating my first web scr
 
 <iframe src="https://nbviewer.org/github/cfornesa/OMDS/blob/main/CFornesa_CDS601_Final_Public.ipynb" width="100%" min-height="100vh" height="480" allow="autoplay"></iframe>
 
-<br><hr><br>
+<br>
+<hr>
+<br>
 
-# Fornesus Blog Web Scraping Project
+<h2>Fornesus Blog Web Scraping Project</h2>
 
 April 13, 2024
 
