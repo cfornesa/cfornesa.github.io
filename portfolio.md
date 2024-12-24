@@ -17,11 +17,15 @@ Here are a list of projects that I am actively working on or have worked on in t
 - <a href="https://github.com/cfornesa/communicate-using-markdown">"Communicate using markdown"</a> project.  A GitHub Skills project where I practice communicating with markdown.
 - Legacy <a href="https://github.com/cfornesa/projects">"Projects"</a> project.  My first attempt at creating a GitHub page, it is also where this page was originally hosted prior to creating the "cfornesa.github.io" repository.
 
-<br><hr><br>
+<br>
+<hr>
+<br>
 
 # Jupyter Notebooks
 
-<br><hr><br>
+<br>
+<hr>
+<br>
 
 # DX 602 Final Project
 
@@ -31,7 +35,9 @@ This Jupyter notebook reviews the steps that I took in creating my first web scr
 
 <iframe src="https://nbviewer.org/github/cfornesa/OMDS/blob/main/CFornesa_CDS602_Final_Public.ipynb" width="100%" min-height="100vh" height="480" allow="autoplay"></iframe>
 
-<br><hr><br>
+<br>
+<hr>
+<br>
 
 # DX 601 Final Project
 
